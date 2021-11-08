@@ -5,7 +5,8 @@
   "author": "Stanley Nduaguibe <snduaguibe@atbtechsoft.com>",
   "license": "MIT",
   "scripts": {
-    "start": "node app.js"
+    "start": "node app.js",
+    "build": "node app.js"
   },
   "dependencies": {
     "cors": "^2.8.5",
